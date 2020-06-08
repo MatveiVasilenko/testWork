@@ -44,6 +44,9 @@
 @import "../../../node_modules/slick-carousel/slick/slick.scss";
 @import "../../../node_modules/slick-carousel/slick/slick-theme.scss";
 
+//Подключение wow.js
+@import "../../../node_modules/wow.js/css/libs/animate.css";
+
 // Подключение своих SCSS файлов
 @import "fonts";
 @import "my";

@@ -21,6 +21,12 @@
 // Импортируем Slick-slider
 //= ../../../node_modules/slick-carousel/slick/slick.js
 
+// Импортируем библиотеку wow.js
+//= ../../../node_modules/wow.js/dist/wow.js
+
+// Импортируем библиотеку isotope
+//= ../../../node_modules/isotope-layout/dist/isotope.pkgd.js
+
 // Импортируем другие js-файлы
 
 //= slick.js

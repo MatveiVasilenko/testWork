@@ -10,10 +10,11 @@
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "gulp-uglify-es": "^2.0.0",
+    "isotope-layout": "^3.0.6",
     "jquery": "3.4.1",
     "popper.js": "^1.14.7",
-    "slick-carousel": "^1.8.1"
+    "slick-carousel": "^1.8.1",
+    "wow.js": "^1.2.2"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
@@ -32,6 +33,7 @@
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
+    "gulp-uglify-es": "^2.0.0",
     "imagemin-jpeg-recompress": "^6.0.0",
     "imagemin-pngquant": "^8.0.0"
   }
